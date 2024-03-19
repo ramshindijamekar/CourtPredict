@@ -1,4 +1,4 @@
-# NCAA Basketball Tournament Bracket Prediction Project
+# COURT PREDICT: NCAA TOURNAMENT SHOWDOWN
 
 This project aims to predict the outcomes of the NCAA Men's and Women's basketball tournaments using machine learning techniques. The goal is to create a portfolio of bracket predictions that maximize the Average Bracket Score as per the evaluation criteria provided.
 
