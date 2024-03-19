@@ -15,19 +15,25 @@ The project follows these key steps:
 
 3. **Model Development**:
    - Build machine learning models to predict game outcomes and tournament brackets.
-   - Experiment with different algorithms such as logistic regression, random forests, and neural networks.
+   - Experiment with different algorithms such as XGboost, logistic regression, random forests, and neural networks.
    - Utilize ensemble techniques to improve prediction accuracy.
 
-4. **Bracket Generation**:
+4. **Visualization**:
+   - Visualize exploratory data analysis (EDA) to understand the distribution of features, correlations, and trends.
+   - Create visualizations of model performance metrics.
+   - Generate plots to illustrate bracket predictions, highlighting potential upsets and tournament paths.
+
+5. **Bracket Generation**:
    - Generate a portfolio of bracket predictions for both the Men's and Women's tournaments.
    - Ensure adherence to the tournament structure and validation of predicted paths.
 
-5. **Evaluation**:
+6. **Evaluation**:
    - Evaluate the performance of bracket predictions using the Average Bracket Score metric.
    - Optimize models and parameters to improve prediction accuracy.
 
-6. **Submission**:
+7. **Submission**:
    - Submit the bracket predictions to the designated platform, ensuring compliance with submission guidelines.
+
 
 ## Repository Structure
 
@@ -35,6 +41,7 @@ The project follows these key steps:
 - `notebooks/`: Jupyter notebooks detailing data exploration, preprocessing, modeling, and evaluation.
 - `Data Analytics/`: Python scripts for data preprocessing, model development, and bracket generation saved in file named "CourtPredictEDA.ipynb".
 - `model/`: Saved machine learning model as "CourtPredictFinal.ipynb".
+- `images/`: Contains the images of visualizations performed on the data.
 - `README.md`: Project overview, instructions, and descriptions.
 
 
